@@ -1,5 +1,5 @@
 # Code base for "Plan-Based Relaxed Reward Shaping for Goal-Directed Tasks"
-This repository contains code for reproducing results of the following paper: of 
+This repository contains code for reproducing results of the following paper:
 ```
 Schubert, I., Oguz, O.S. and Toussaint, M. (2021). Plan-based relaxed reward shaping for goal-directed tasks. In Proceedings of the International Conference on Learning Representations (ICLR).
 ```
