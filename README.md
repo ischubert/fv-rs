@@ -7,7 +7,7 @@ Specifically, the experiment code in this repo will reproduce Fig. 2 (pushing ex
 The rest of the examples can be reproduced analogously.
 
 ## Installation
-The physX simulations require `rai-python` (imported here). Please follow the installation instructions at https://github.com/MarcToussaint/rai-python.
+The physX [simulations require](https://github.com/ischubert/fv-rs/blob/dc21b01271fc2a33cc4b3050164f94c7846fcf64/ryenv.py#L8) `rai-python` (imported here). Please follow the installation instructions at https://github.com/MarcToussaint/rai-python.
 
 ## Pushing example
 ![](pushing_setup_annotated.png)
